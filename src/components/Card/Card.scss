@@ -1,0 +1,20 @@
+.card__body{
+    width: 386px;
+    height: 444px;
+
+    img{
+        width: 354px;
+        height: 330px;
+    }
+}
+.product__title{
+    font-family: "Raleway";
+    font-weight: 300;
+    font-size: 18px;
+}
+.product__price{
+    font-family: "Raleway";
+    // font-weight: 500;
+    margin-top: -10px;
+    font-size: 15px;
+}
